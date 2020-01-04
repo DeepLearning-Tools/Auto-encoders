@@ -1,4 +1,4 @@
-# Auto_encoders
+# Auto-encoders
 A collection of tasks that provide an introduction to the working and implementation of auto-encoders.
 
 # Introduction
